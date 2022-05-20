@@ -63,7 +63,7 @@ https://play.google.com/store/apps/details?id=com.assemble.assembleapp
 
 ### 📌Design
 
-<img src="https://user-images.githubusercontent.com/67312562/169518050-bf57edc9-cf70-416d-b4a4-a919d8174cee.png" alt="Frame 2" style="zoom: 50%;" /><img src="https://user-images.githubusercontent.com/67312562/169518060-bd422f6f-bb96-4165-b695-513cdf95f21a.png" alt="info" style="zoom:50%;" /><img src="https://user-images.githubusercontent.com/67312562/169518061-db91287a-7f22-4754-96ea-f1a09250d318.png" alt="info-1" style="zoom:50%;" /><img src="https://user-images.githubusercontent.com/67312562/169518062-974b6672-2caa-406c-a85a-7d28d70d7293.png" alt="Info-2" style="zoom:50%;" />
+<img src="https://user-images.githubusercontent.com/67312562/169518050-bf57edc9-cf70-416d-b4a4-a919d8174cee.png" alt="Frame 2" style="zoom: 25%;" /><img src="https://user-images.githubusercontent.com/67312562/169518060-bd422f6f-bb96-4165-b695-513cdf95f21a.png" alt="info" style="zoom:25%;" /><img src="https://user-images.githubusercontent.com/67312562/169518061-db91287a-7f22-4754-96ea-f1a09250d318.png" alt="info-1" style="zoom:25%;" /><img src="https://user-images.githubusercontent.com/67312562/169518062-974b6672-2caa-406c-a85a-7d28d70d7293.png" alt="Info-2" style="zoom:25%;" />
 
 `Profile Screen(기존 디자인 총 5번 수정)`
 
