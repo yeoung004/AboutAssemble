@@ -57,13 +57,17 @@ https://play.google.com/store/apps/details?id=com.assemble.assembleapp
 ---
 
 ### 📌Process
+####✔️ Application Process
 ![그림1](https://user-images.githubusercontent.com/67312562/169528839-4839b782-9770-49de-a716-27b0c97a56e1.png)
+
+####✔️ Server
+![그림2](https://user-images.githubusercontent.com/67312562/169530455-da774e42-f1d7-42ad-a8a0-9468f1fc84a5.png)
 
 ---
 
 ### 📌Design
 
-<img src="https://user-images.githubusercontent.com/67312562/169518050-bf57edc9-cf70-416d-b4a4-a919d8174cee.png" alt="Frame 2" style="zoom: 25%;" /><img src="https://user-images.githubusercontent.com/67312562/169518060-bd422f6f-bb96-4165-b695-513cdf95f21a.png" alt="info" style="zoom:25%;" /><img src="https://user-images.githubusercontent.com/67312562/169518061-db91287a-7f22-4754-96ea-f1a09250d318.png" alt="info-1" style="zoom:25%;" /><img src="https://user-images.githubusercontent.com/67312562/169518062-974b6672-2caa-406c-a85a-7d28d70d7293.png" alt="Info-2" style="zoom:25%;" />
+<img src="https://user-images.githubusercontent.com/67312562/169518050-bf57edc9-cf70-416d-b4a4-a919d8174cee.png" alt="Frame 2" style="zoom: 10%;" /><img src="https://user-images.githubusercontent.com/67312562/169518060-bd422f6f-bb96-4165-b695-513cdf95f21a.png" alt="info" style="zoom:10%;" /><img src="https://user-images.githubusercontent.com/67312562/169518061-db91287a-7f22-4754-96ea-f1a09250d318.png" alt="info-1" style="zoom:10%;" /><img src="https://user-images.githubusercontent.com/67312562/169518062-974b6672-2caa-406c-a85a-7d28d70d7293.png" alt="Info-2" style="zoom:10%;" />
 
 `Profile Screen(기존 디자인 총 5번 수정)`
 
