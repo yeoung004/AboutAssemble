@@ -57,10 +57,10 @@ https://play.google.com/store/apps/details?id=com.assemble.assembleapp
 ---
 
 ### 📌Process
-####✔️ Application Process
+#### ✔️Application Process
 ![그림1](https://user-images.githubusercontent.com/67312562/169528839-4839b782-9770-49de-a716-27b0c97a56e1.png)
 
-####✔️ Server
+#### ✔️Server
 ![그림2](https://user-images.githubusercontent.com/67312562/169530455-da774e42-f1d7-42ad-a8a0-9468f1fc84a5.png)
 
 ---
