@@ -133,6 +133,9 @@ https://play.google.com/store/apps/details?id=com.assemble.assembleapp
 - 정책추가
 #### 1.0.2
 - 프로젝트 코드 안정화
+#### 1.0.3
+- 포스트 스크린 코드 안정화
+ 
 
 ---
 
